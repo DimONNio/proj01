@@ -1,4 +1,4 @@
 test X
-
+bu
 line3
 add line4
